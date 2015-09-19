@@ -15,6 +15,4 @@ var ACCESS_TOKEN = "f75xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";//FROM SPARKCORE I
 
 //*******************
 
-Look at this Github Repo for the code for the Sparkcore:
-
-https://github.com/contractorwolf/SparkcoreSmartGarage
+Forked from: https://github.com/contractorwolf
